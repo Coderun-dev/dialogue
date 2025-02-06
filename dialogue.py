@@ -56,9 +56,8 @@ def main():
         3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Provide direct instruction, explanations, or demonstrations that clarify concepts, principles, or procedures essential for progressing in the lesson.
         4.	Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Facilitate an open exchange of ideas where students collaborate, analyze perspectives, and co-construct understanding to deepen engagement with the topic.
         5.	Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Guide structured, cumulative questioning and discourse to scaffold deeper learning, clarify misconceptions, and support students in making meaningful connections.
-        Ensure that each phase of instructional talk (Rote, Recitation, Instruction/Exposition, Discussion, and Dialogue) is explicitly embedded within the corresponding lesson section, rather than listing them separately. 
+        Ensure that each phase of instructional talk (Rote, Recitation, Instruction/Exposition, Discussion, and Dialogue) is explicitly embedded within the corresponding lesson section(Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework), rather than listing them separately. 
 
-        Please generate a detailed lesson plan including Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework.
         """
 
         prompt = prompt_template.format(
