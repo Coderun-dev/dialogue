@@ -51,11 +51,11 @@ def main():
         Learning Objectives: {learning_objectives}
 
         Please generate a detailed lesson plan that integrates a balanced sequence of dialogue types, as outlined by Alexander (2008). The lesson should include the following instructional talk phases, each aligned with a clear purpose:
-        1.	Rote (Teacher-Class): Introduce key facts, terminology, or foundational concepts through structured repetition to reinforce memory and establish baseline knowledge.
+        1. Rote (Teacher-Class): Introduce key facts, terminology, or foundational concepts through structured repetition to reinforce memory and establish baseline knowledge.
         2. Recitation (Teacher-Class or Teacher-Group): Use recall-based questioning to check students' retention and comprehension of prior learning, prompting them to retrieve information or deduce answers from contextual cues.
-        3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Provide direct instruction, explanations, or demonstrations that clarify concepts, principles, or procedures essential for progressing in the lesson.
-        4.	Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Facilitate an open exchange of ideas where students collaborate, analyze perspectives, and co-construct understanding to deepen engagement with the topic.
-        5.	Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Guide structured, cumulative questioning and discourse to scaffold deeper learning, clarify misconceptions, and support students in making meaningful connections.
+        3. Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Provide direct instruction, explanations, or demonstrations that clarify concepts, principles, or procedures essential for progressing in the lesson.
+        4. Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Facilitate an open exchange of ideas where students collaborate, analyze perspectives, and co-construct understanding to deepen engagement with the topic.
+        5. Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Guide structured, cumulative questioning and discourse to scaffold deeper learning, clarify misconceptions, and support students in making meaningful connections.
 
         Please generate a detailed lesson plan including Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework.
         """
