@@ -56,7 +56,8 @@ def main():
         3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Ensure direct instruction or explanation is embedded in the lesson to introduce new concepts, procedures, or facts. 
         4.	Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Incorporate activities that encourage students to exchange ideas, explore concepts, and collaboratively solve problems. 
         5.	Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Integrate structured, cumulative questioning and guided discussions to clarify concepts and deepen understanding. 
-        
+
+        Please generate a detailed lesson plan including Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework.
         """
 
         prompt = prompt_template.format(
