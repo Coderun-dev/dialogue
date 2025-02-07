@@ -50,7 +50,7 @@ def main():
         Topic: {topic}
         Learning Objectives: {learning_objectives}
 
-        Please generate a detailed lesson that incorporates the following instructional phases throughout different parts of the lesson: 
+        Please generate a detailed lesson that integrates the following instructional phases throughout different parts of the lesson. The phases should not follow a strict sequence but be embedded where they best enhance student learning and engagement.
         1.	Rote (Teacher-Class): Include opportunities for students to drill key facts, ideas, or routines through structured repetition. 
         2.	Recitation (Teacher-Class or Teacher-Group): Design a segment where students recall previously learned knowledge or deduce answers from teacher-provided clues
         3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Ensure direct instruction or explanation is embedded in the lesson to introduce new concepts, procedures, or facts. 
