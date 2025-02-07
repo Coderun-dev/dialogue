@@ -50,14 +50,13 @@ def main():
         Topic: {topic}
         Learning Objectives: {learning_objectives}
 
-        Please generate a detailed lesson plan that integrates a balanced sequence of dialogue types, as outlined by Alexander (2008). The lesson should include the following instructional talk phases, each aligned with a clear purpose:
-        1.	Rote (Teacher-Class): Introduce key facts, terminology, or foundational concepts through structured repetition to reinforce memory and establish baseline knowledge.
-        2. Recitation (Teacher-Class or Teacher-Group): Use recall-based questioning to check students' retention and comprehension of prior learning, prompting them to retrieve information or deduce answers from contextual cues.
-        3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Provide direct instruction, explanations, or demonstrations that clarify concepts, principles, or procedures essential for progressing in the lesson.
-        4.	Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Facilitate an open exchange of ideas where students collaborate, analyze perspectives, and co-construct understanding to deepen engagement with the topic.
-        5.	Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Guide structured, cumulative questioning and discourse to scaffold deeper learning, clarify misconceptions, and support students in making meaningful connections.
-        Ensure that each phase of instructional talk (Rote, Recitation, Instruction/Exposition, Discussion, and Dialogue) is explicitly embedded within the corresponding lesson section(Grade, Subject, Topic, Opening, Introduction, Guided Practice, Independent Practice, Closing, Assessment, Extension Activity, and Homework), rather than listing them separately. 
-
+        Please generate a detailed lesson that incorporates the following instructional phases throughout different parts of the lesson: 
+        1.	Rote (Teacher-Class): Include opportunities for students to drill key facts, ideas, or routines through structured repetition. 
+        2.	Recitation (Teacher-Class or Teacher-Group): Design a segment where students recall previously learned knowledge or deduce answers from teacher-provided clues
+        3.	Instruction/Exposition (Teacher-Class, Teacher-Group, or Teacher-Individual): Ensure direct instruction or explanation is embedded in the lesson to introduce new concepts, procedures, or facts. 
+        4.	Discussion (Teacher-Class, Teacher-Group, or Pupil-Pupil): Incorporate activities that encourage students to exchange ideas, explore concepts, and collaboratively solve problems. 
+        5.	Dialogue (Teacher-Class, Teacher-Group, Teacher-Individual, or Pupil-Pupil): Integrate structured, cumulative questioning and guided discussions to clarify concepts and deepen understanding. 
+        
         """
 
         prompt = prompt_template.format(
