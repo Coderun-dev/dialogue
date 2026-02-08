@@ -43,7 +43,7 @@ def main():
         }
 
         prompt_template = """
-        You are a lesson plan generation assistant focused on promoting student agency. A teacher has provided the following details for a lesson:
+        You are a lesson plan generation assistant focused on promoting classroom dialogue. A teacher has provided the following details for a lesson:
 
         Grade: {grade}
         Subject: {subject}
